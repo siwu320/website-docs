@@ -1,9 +1,7 @@
-3ef6cbdc3d23fe3cad4e56231ef516d0  en/connection_guide.md
-c41b41603f4d0de2a7cc1e684228f5a9  en/faq.md
-383b905114b125d7bfd87a7dacdc8b56  en/fokabot.md
-4548a100846bda49251451f487abbdad  en/install_certificate_manually.md
-0b0fc94436acf968d088d542eeed829c  en/irc.md
-607f23459bef786f3b5be6e79c1c9d07  en/linux.md
-2501cca870ca3187038d91cfc41f784c  en/relax_pp.md
-9710018e775ce8760c9d7f98bbacaae6  en/rules.md
-f89888117086f84db0fa6855bbae606c  en/secure_contact.md
+3003188120241d686c132ad8e88a11e2  en/aika.md
+7dc4cffa956ec184a9bb8c7c2e27e39a  en/connection_guide.md
+54ee910c5a42e83ad3d52236dea5e480  en/faq.md
+ce212a2b8afebbee759407bcc26e46a5  en/install_certificate_manually.md
+26da0cfbe5fe44b0959d0b0c78ca4d92  en/irc.md
+8d9cbded63e0df5dc485e0401b25d8f8  en/linux.md
+4c6e3f5ceb07fb4c98d1a0b887351d94  en/tos.md

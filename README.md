@@ -1,6 +1,6 @@
 # website-docs
 
-A repository containing the documentation available at the Ripple website on https://ripple.moe/doc. This is made mainly for translation purposes. Typo fixes are welcome even if you're not part of the translation team; however note that if you want to make big contributions you should probably fill in the [Translating Ripple](https://docs.google.com/forms/d/e/1FAIpQLScYgWfrqsjyI55dq2ZFIZgp5dCfmcqWP5XZTE602bqCfhAeew/viewform) form, so that we can add you to our Discord translation team.
+A repository containing the documentation available at the Akatsuki website on https://akatsuki.pw/doc. This is made mainly for translation purposes.
 
 ## How to create new files
 
@@ -14,16 +14,16 @@ You should be brought to a page with Markdown/HTML code. Select it all and copy 
 
 ![](https://u.nya.is/mpxdif.png)
 
-First of all you should name your file properly. First, set the name: it should be `<2 letter country code>/<original name>.md`. For instance, if I am translating `irc.md` into French, I would set the title to `fr/irc.md`. If unsure on your 2 letter country code, just ask Howl on the Discord.
+First of all you should name your file properly. First, set the name: it should be `<2 letter country code>/<original name>.md`. For instance, if I am translating `irc.md` into French, I would set the title to `fr/irc.md`. If unsure on your 2 letter country code, just ask Mempler on the Discord.
 
 Then, in "Edit new file", paste the text you copied. And before getting into the translation, go to [md5sums.txt](md5sums.txt), and check what's the English md5sum for your file. Then, at the top of the file, delete `old_id`, and write: `reference_version: <md5hash>`, and translate the title. For instance:
 
 ```
 ---
-title: "Bot"
+title: "Faq"
 reference_version: 2691370caa5d6c6b071a18281bd440de
 ---
-Ripple ha dei bot che puoi contattare direttamente dal gioco...
+Wie funzn dat hier ?!?
 ```
 
-Then, smash your keyboard until you get something that you understand in the language you're supposed to be translating into. Once you're satisfied with the result, check out the preview (if it looks really odd, make sure you haven't fucked up formatting somewhere, or ask Howl for help). Once you're done, commit the new file: set the commit title to, for instance, `Translate bots.md into Italian`, and you can leave the description empty. To end it all, create the pull request.
+Then, smash your keyboard until you get something that you understand in the language you're supposed to be translating into. Once you're satisfied with the result, check out the preview (if it looks really odd, make sure you haven't fucked up formatting somewhere, or ask Mempler for help). Once you're done, commit the new file: set the commit title to, for instance, `Translate faq.md into German`, and you can leave the description empty. To end it all, create the pull request.

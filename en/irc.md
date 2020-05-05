@@ -1,8 +1,11 @@
 ---
-title: "Connecting to Ripple through IRC"
+title: "Connecting to Akatsuki through IRC"
 old_id: 11
 ---
 
+IRC does not exists just yet.
+
+<!--
 ### A quick note
 Please note that IRC support may vary depending on the client you're using. Plus, our IRC server only handles **basic commands** at the moment, such as PASS, NICK, USER, PRIVMSG, NOTICE, JOIN, PART and QUIT.  
 We've tested our IRC server with [HexChat](https://hexchat.github.io), a free and open source IRC client, and it turned out to work pretty well. For iOS, Mutter works just fine.
@@ -23,3 +26,4 @@ There's no authentication system (SASL/NickServ, none of that). Your IRC token m
 
 ### And now?
 If you have connected successfully to ripple's IRC server, you can start chatting in public channels by typing `/JOIN #channel` (eg: `/JOIN #osu` to join the main channel). `/list` should show all available channels.
+-->
