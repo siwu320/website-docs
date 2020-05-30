@@ -1,6 +1,6 @@
 ---
 title: "Wie verbindet man sich mit Akatsuki(Linux)"
-old_id: 14
+reference_version: 8d9cbded63e0df5dc485e0401b25d8f8
 ---
 Diese Anleitung dient nur für die Verbindung mit Akatsuki. Du kannst [dieser Anleitung](https://gist.github.com/Francesco149/a2f796683a4e5195458f4bb171d88eb0) folgen um dein Spiel einzustellen.
 
