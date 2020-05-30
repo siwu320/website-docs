@@ -1,6 +1,6 @@
 ---
 title: "Connecting to Akatsuki through IRC"
-old_id: 11
+reference_version: 26da0cfbe5fe44b0959d0b0c78ca4d92
 ---
 
 IRC does not exists just yet.
