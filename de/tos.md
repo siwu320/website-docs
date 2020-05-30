@@ -1,6 +1,6 @@
 ---
 title: "Nutzungsbedingungen"
-old_id: 9
+reference_version: 4c6e3f5ceb07fb4c98d1a0b887351d94
 ---
 
 Danke für das Spielen auf Akatsuki! Beim spielen, stimmst du den folgenden Richtlinien zu. Die Misachtung garantiert die sofortige Entfernung von unseren Diensten.
