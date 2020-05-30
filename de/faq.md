@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-old_id: 5
+reference_version: 54ee910c5a42e83ad3d52236dea5e480
 ---
 
 - **Ich kann mein Account nicht verifizieren, weil ich keine Email bekommen habe!**
