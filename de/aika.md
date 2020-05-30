@@ -1,6 +1,6 @@
 ---
 title: "Aika Befehle"
-old_id: 4
+reference_version: 3003188120241d686c132ad8e88a11e2
 ---
 Dies sind die Befehle für unseren Bot, Aika.
 
