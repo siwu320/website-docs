@@ -1,6 +1,6 @@
 ---
 title: "Manuelles Installieren des Zertifikates"
-old_id: 12
+reference_version: ce212a2b8afebbee759407bcc26e46a5
 ---
 Falls du Probleme hast, dich mit Akatsuki zu verbinden oder der Switcher installiert das Zertifikat nicht richtig, dann kannst du versuchen es manuell zu installieren.
 
