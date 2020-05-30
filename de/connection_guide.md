@@ -1,6 +1,6 @@
 ---
 title: "Wie man auf Akatsuki spielen kann"
-old_id: 1
+reference_version: 7dc4cffa956ec184a9bb8c7c2e27e39a
 ---
 - [Erstelle](http://akatsuki.pw/index.php?p=3) ein Account 
 - Lade dir den [Akatsuki-Switcher](http://akatsuki.pw/static/switcher.exe) herunter
