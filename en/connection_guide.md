@@ -7,7 +7,7 @@ old_id: 1
 - Create a new **Shortcut** from the `osu.exe` game file
 - Right click the Shortcut and go on **Properties**
 - Add `-devserver akatsuki.pw` to the **Target**, right after your directory
-- Your changes should look like [this](https://chito.ge/97iWe7P.png)
+- Your changes should look like [this](https://akatsuki.pw/static/connection_guide.png)
 - Click on **Apply**
 - Run your Shortcut
 - Enjoy!
