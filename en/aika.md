@@ -8,8 +8,6 @@ These are the commands supported by Aika, our chat bot.
 - `!roll` - Returns a random number from 0 to 100  
 - `!roll num` - Returns a random number from 0 to num  
 - `!help` - Display help message  
-- `!pp [mode]` - Show your current pp. If `mode` is not present, Aika will tell you the amount of PP for your current game mode. If mode is present (it can be `std/taiko/ctb/mania`), Aika will tell you the amount of PP for that gamemode. **This command works only in PMs**
-- `!update` - Update the beatmapset you've `/np`ed in our beatmap mirror. Use this if you've just downloaded a beatmap from osu!direct and it shows as outdated or if a beatmap can't be downloaded from osu!direct because it's too new.
 
 ### Faq commands
 - `!faq rules`  
@@ -28,7 +26,7 @@ Aika has some commands similar to Tillerino. Those commands work only if you sen
 
 - `/np` - Show PP for the current playing song  (only if is a osu! standard song)  
 - `!last` - Show info (and gained PP, if it was an osu! standard score) about the last submitted score  
-- `!with <mods>` - Show PP for the previous requested beatmap with requested mods. Supported mods are `NF, EZ, HD, HR, DT, HT, NC, FL, SO.`. Don't use spaces for multiple mods (eg: `!with HDHR`)
+- `!with <mods>` - Show PP for the previous requested beatmap with requested mods. Supported mods are `NF, EZ, HD, HR, DT, HT, NC, FL, SO, RX, AP.`. Don't use spaces for multiple mods (eg: `!with HDHR`)
 
 ### Admin commands
 - `!system restart` - Restart the server. Everyone will be disconnected and reconnected automatically  
@@ -43,6 +41,6 @@ Aika has some commands similar to Tillerino. Those commands work only if you sen
 - `!unban <username>` - Unban someone  
 - `!restrict <username>` - Restrict someone  
 - `!unrestrict <username>` - Unrestrict someone  
-- `!fokabot reconnect` - Reconnect Aika if he's not on online users list anymore  
+- `!fokabot reconnect` - Reconnect Aika if she's not on online users list anymore  
 - `!alert <message>` - Send a notification to every user connected to bancho  
 - `!alertuser  <username> <message>` - Send a notification to a specific user
